@@ -2,6 +2,12 @@
 
 A simple desktop application to track personal income and expenses.
 
+## 🖼️ Screenshot
+
+### Main Screen
+
+![Main Screen](main.png)
+
 ## Features
 
 - Add income and expenses with categories
